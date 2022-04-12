@@ -45,4 +45,4 @@ public class magicTrick {
     }    
 }
 
-//This is Contributed by Amit.
+//This is Contributed by Amit...
